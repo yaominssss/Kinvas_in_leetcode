@@ -1,0 +1,18 @@
+class Solution {
+public:
+    int mySqrt(int x) {
+        long min=1;
+        long max=x;
+       if(x==0){
+           return 0;
+       }
+        while(min<max){
+            long mid=min+(-min+max+1)/2;
+            if(mid*mid>x){
+                max=mid-1;
+            }
+            else min=mid;
+        }
+        return min;
+    }
+};
