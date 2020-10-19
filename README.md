@@ -5,3 +5,4 @@ Experience in leetcode and knowledgement
 
 2.% can get the residual of a number
 
+3.it is important to choose left or right middle in binary searching 
