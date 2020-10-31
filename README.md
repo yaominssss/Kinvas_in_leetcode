@@ -8,3 +8,5 @@ Experience in leetcode and knowledgement
 3.it is important to choose left or right middle in binary searching 
 
 Database: https://15445.courses.cs.cmu.edu/fall2020/
+
+The introduction of computer system: https://cs61a.org/
